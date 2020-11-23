@@ -1,4 +1,4 @@
-**Not to by used in production.**
+**Not to be used in production.**
 # Wildfires Map
 
 This project was re-created from [Wildfire Tracker](https://github.com/bradtraversy/wildfire-tracker). (Credit: [Brad Traversy](https://github.com/bradtraversy))
